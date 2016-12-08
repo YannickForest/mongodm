@@ -1,5 +1,5 @@
 {
-    "name": "purekid/mongodm",
+    "name": "YannickForest/mongodm",
     "description": "MongoDB ORM that includes support for references,embed and multilevel inheritance.",
     "version": "1.4.2",
     "keywords": ["mongodm", "orm", "mongodb"],
