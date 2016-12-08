@@ -1,5 +1,5 @@
 {
-    "name": "YannickForest/mongodm",
+    "name": "yannickforest/mongodm",
     "description": "MongoDB ORM that includes support for references,embed and multilevel inheritance.",
     "version": "1.4.2",
     "keywords": ["mongodm", "orm", "mongodb"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "VTL\\Mongodm\\": "src"
+            "yannickforest\\Mongodm\\": "src"
         }
     }
 }
