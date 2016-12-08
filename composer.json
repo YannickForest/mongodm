@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Purekid\\Mongodm\\": "src"
+            "VTL\\Mongodm\\": "src"
         }
     }
 }
